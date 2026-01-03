@@ -1,0 +1,5 @@
+{
+  "name": "Liquid Glitch Reveal",
+  "description": "A high-fidelity interactive image component that reveals a glitch layer through a liquid-like organic mask on hover, using SVG filters and physics-based motion.",
+  "requestFramePermissions": []
+}
